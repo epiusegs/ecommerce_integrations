@@ -76,7 +76,7 @@ shopify.ProductImporter = class {
                                     </div>
                                     <div class="text-center p-3 mx-2 rounded w-100" style="background-color: var(--bg-color)">
                                         <h2 id="count-products-erpnext">-</h2>
-                                        <p class="text-muted m-0">in ERPNext</p>
+                                        <p class="text-muted m-0">in Altrix One</p>
                                     </div>
                                     <div class="text-center p-3 mx-2 rounded w-100" style="background-color: var(--bg-color)">
                                         <h2 id="count-products-synced">-</h2>
